@@ -2,5 +2,6 @@
 
 ## my test task
 
-``` git
+``` 
+mkdir test-repo
 ```
